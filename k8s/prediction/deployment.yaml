@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: prediction   # ✅ changed
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: prediction
+  template:
+    metadata:
+      labels:
+        app: prediction
+    spec:
+      containers:
+        - name: prediction
+          image: prediction:latest   # ✅ changed
+          imagePullPolicy: Never  # ✅ changed
