@@ -1,0 +1,20 @@
+version: '3.9'
+
+services:
+
+  training-service:
+    build: ./training-service
+    ports:
+      - "5001:5001"
+
+  inference-service:
+    build: ./inference-service
+    ports:
+      - "5002:5002"
+
+  spring-backend:
+    build: ./spring-backend
+    ports:
+      - "8080:8080"
+    depends_on:
+      - inference-service

@@ -1,0 +1,148 @@
+2026-05-16 01:06:02,687:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:06:02,687:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:06:02,687:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:06:02,687:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:09:26,890:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:09:26,890:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:09:26,890:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:09:26,890:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:09:28,292:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:09:28,292:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:09:28,292:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:09:28,292:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:10:10,704:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:10:10,704:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:10:10,704:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:10:10,704:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:10:12,070:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:10:12,070:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:10:12,071:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 01:10:12,071:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 18:47:06,729:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 18:47:06,730:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 18:47:06,730:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 18:47:06,730:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 18:47:08,359:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 18:47:08,359:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 18:47:08,359:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 18:47:08,359:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 18:47:17,941:INFO:PyCaret ClassificationExperiment
+2026-05-16 18:47:17,941:INFO:Logging name: clf-default-name
+2026-05-16 18:47:17,941:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2026-05-16 18:47:17,941:INFO:version 3.3.2
+2026-05-16 18:47:17,941:INFO:Initializing setup()
+2026-05-16 18:47:17,941:INFO:self.USI: ada3
+2026-05-16 18:47:17,941:INFO:self._variable_keys: {'X', 'pipeline', 'seed', 'X_train', 'y', 'fold_shuffle_param', 'idx', 'exp_name_log', 'y_train', 'y_test', '_available_plots', 'memory', 'target_param', 'gpu_param', 'exp_id', 'fold_groups_param', 'n_jobs_param', 'gpu_n_jobs_param', 'fold_generator', 'log_plots_param', 'USI', 'logging_param', '_ml_usecase', 'fix_imbalance', 'X_test', 'is_multiclass', 'data', 'html_param'}
+2026-05-16 18:47:17,941:INFO:Checking environment
+2026-05-16 18:47:17,941:INFO:python_version: 3.9.6
+2026-05-16 18:47:17,941:INFO:python_build: ('default', 'Jan  9 2026 11:03:41')
+2026-05-16 18:47:17,941:INFO:machine: arm64
+2026-05-16 18:47:17,956:INFO:platform: macOS-26.3.1-arm64-arm-64bit
+2026-05-16 18:47:17,957:INFO:Memory: svmem(total=17179869184, available=5400494080, percent=68.6, used=7328727040, free=143523840, active=5253152768, inactive=5253169152, wired=2075574272)
+2026-05-16 18:47:17,957:INFO:Physical Core: 10
+2026-05-16 18:47:17,957:INFO:Logical Core: 10
+2026-05-16 18:47:17,957:INFO:Checking libraries
+2026-05-16 18:47:17,957:INFO:System:
+2026-05-16 18:47:17,957:INFO:    python: 3.9.6 (default, Jan  9 2026, 11:03:41)  [Clang 17.0.0 (clang-1700.6.4.2)]
+2026-05-16 18:47:17,957:INFO:executable: /Users/prerit/Desktop/MLFlowx/training-service/venv/bin/python3
+2026-05-16 18:47:17,957:INFO:   machine: macOS-26.3.1-arm64-arm-64bit
+2026-05-16 18:47:17,957:INFO:PyCaret required dependencies:
+2026-05-16 18:48:02,978:INFO:PyCaret ClassificationExperiment
+2026-05-16 18:48:02,978:INFO:Logging name: clf-default-name
+2026-05-16 18:48:02,978:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2026-05-16 18:48:02,978:INFO:version 3.3.2
+2026-05-16 18:48:02,978:INFO:Initializing setup()
+2026-05-16 18:48:02,978:INFO:self.USI: dd84
+2026-05-16 18:48:02,978:INFO:self._variable_keys: {'X', 'pipeline', 'seed', 'X_train', 'y', 'fold_shuffle_param', 'idx', 'exp_name_log', 'y_train', 'y_test', '_available_plots', 'memory', 'target_param', 'gpu_param', 'exp_id', 'fold_groups_param', 'n_jobs_param', 'gpu_n_jobs_param', 'fold_generator', 'log_plots_param', 'USI', 'logging_param', '_ml_usecase', 'fix_imbalance', 'X_test', 'is_multiclass', 'data', 'html_param'}
+2026-05-16 18:48:02,978:INFO:Checking environment
+2026-05-16 18:48:02,978:INFO:python_version: 3.9.6
+2026-05-16 18:48:02,978:INFO:python_build: ('default', 'Jan  9 2026 11:03:41')
+2026-05-16 18:48:02,978:INFO:machine: arm64
+2026-05-16 18:48:02,978:INFO:platform: macOS-26.3.1-arm64-arm-64bit
+2026-05-16 18:48:02,978:INFO:Memory: svmem(total=17179869184, available=5604605952, percent=67.4, used=7131578368, free=296255488, active=5320687616, inactive=5305434112, wired=1810890752)
+2026-05-16 18:48:02,978:INFO:Physical Core: 10
+2026-05-16 18:48:02,978:INFO:Logical Core: 10
+2026-05-16 18:48:02,978:INFO:Checking libraries
+2026-05-16 18:48:02,978:INFO:System:
+2026-05-16 18:48:02,978:INFO:    python: 3.9.6 (default, Jan  9 2026, 11:03:41)  [Clang 17.0.0 (clang-1700.6.4.2)]
+2026-05-16 18:48:02,978:INFO:executable: /Users/prerit/Desktop/MLFlowx/training-service/venv/bin/python3
+2026-05-16 18:48:02,978:INFO:   machine: macOS-26.3.1-arm64-arm-64bit
+2026-05-16 18:48:02,978:INFO:PyCaret required dependencies:
+2026-05-16 18:50:58,789:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 18:50:58,789:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 18:50:58,789:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 18:50:58,789:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-16 18:51:09,147:INFO:PyCaret ClassificationExperiment
+2026-05-16 18:51:09,147:INFO:Logging name: clf-default-name
+2026-05-16 18:51:09,147:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2026-05-16 18:51:09,147:INFO:version 3.3.2
+2026-05-16 18:51:09,147:INFO:Initializing setup()
+2026-05-16 18:51:09,148:INFO:self.USI: 5917
+2026-05-16 18:51:09,148:INFO:self._variable_keys: {'y_test', '_available_plots', 'gpu_param', 'data', 'X_train', 'X_test', 'X', 'logging_param', 'seed', '_ml_usecase', 'exp_id', 'y_train', 'is_multiclass', 'memory', 'USI', 'idx', 'pipeline', 'log_plots_param', 'fix_imbalance', 'gpu_n_jobs_param', 'target_param', 'html_param', 'y', 'fold_generator', 'exp_name_log', 'n_jobs_param', 'fold_groups_param', 'fold_shuffle_param'}
+2026-05-16 18:51:09,148:INFO:Checking environment
+2026-05-16 18:51:09,148:INFO:python_version: 3.9.6
+2026-05-16 18:51:09,148:INFO:python_build: ('default', 'Jan  9 2026 11:03:41')
+2026-05-16 18:51:09,148:INFO:machine: arm64
+2026-05-16 18:51:09,161:INFO:platform: macOS-26.3.1-arm64-arm-64bit
+2026-05-16 18:51:09,161:INFO:Memory: svmem(total=17179869184, available=5587550208, percent=67.5, used=7257702400, free=149995520, active=5440897024, inactive=5350604800, wired=1816805376)
+2026-05-16 18:51:09,161:INFO:Physical Core: 10
+2026-05-16 18:51:09,161:INFO:Logical Core: 10
+2026-05-16 18:51:09,161:INFO:Checking libraries
+2026-05-16 18:51:09,161:INFO:System:
+2026-05-16 18:51:09,161:INFO:    python: 3.9.6 (default, Jan  9 2026, 11:03:41)  [Clang 17.0.0 (clang-1700.6.4.2)]
+2026-05-16 18:51:09,161:INFO:executable: /Users/prerit/Desktop/MLFlowx/training-service/venv/bin/python3
+2026-05-16 18:51:09,161:INFO:   machine: macOS-26.3.1-arm64-arm-64bit
+2026-05-16 18:51:09,161:INFO:PyCaret required dependencies:
+2026-05-16 18:51:11,044:INFO:PyCaret ClassificationExperiment
+2026-05-16 18:51:11,044:INFO:Logging name: clf-default-name
+2026-05-16 18:51:11,044:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2026-05-16 18:51:11,044:INFO:version 3.3.2
+2026-05-16 18:51:11,044:INFO:Initializing setup()
+2026-05-16 18:51:11,044:INFO:self.USI: d836
+2026-05-16 18:51:11,044:INFO:self._variable_keys: {'y_test', '_available_plots', 'gpu_param', 'data', 'X_train', 'X_test', 'X', 'logging_param', 'seed', '_ml_usecase', 'exp_id', 'y_train', 'is_multiclass', 'memory', 'USI', 'idx', 'pipeline', 'log_plots_param', 'fix_imbalance', 'gpu_n_jobs_param', 'target_param', 'html_param', 'y', 'fold_generator', 'exp_name_log', 'n_jobs_param', 'fold_groups_param', 'fold_shuffle_param'}
+2026-05-16 18:51:11,044:INFO:Checking environment
+2026-05-16 18:51:11,044:INFO:python_version: 3.9.6
+2026-05-16 18:51:11,044:INFO:python_build: ('default', 'Jan  9 2026 11:03:41')
+2026-05-16 18:51:11,044:INFO:machine: arm64
+2026-05-16 18:51:11,044:INFO:platform: macOS-26.3.1-arm64-arm-64bit
+2026-05-16 18:51:11,044:INFO:Memory: svmem(total=17179869184, available=5568446464, percent=67.6, used=7268073472, free=137314304, active=5442174976, inactive=5343952896, wired=1825898496)
+2026-05-16 18:51:11,044:INFO:Physical Core: 10
+2026-05-16 18:51:11,044:INFO:Logical Core: 10
+2026-05-16 18:51:11,044:INFO:Checking libraries
+2026-05-16 18:51:11,044:INFO:System:
+2026-05-16 18:51:11,044:INFO:    python: 3.9.6 (default, Jan  9 2026, 11:03:41)  [Clang 17.0.0 (clang-1700.6.4.2)]
+2026-05-16 18:51:11,044:INFO:executable: /Users/prerit/Desktop/MLFlowx/training-service/venv/bin/python3
+2026-05-16 18:51:11,044:INFO:   machine: macOS-26.3.1-arm64-arm-64bit
+2026-05-16 18:51:11,044:INFO:PyCaret required dependencies:
