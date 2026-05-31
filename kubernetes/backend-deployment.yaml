@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: spring-backend
+
+spec:
+  replicas: 2
+
+  selector:
+    matchLabels:
+      app: spring-backend
+
+  template:
+    metadata:
+      labels:
+        app: spring-backend
+
+    spec:
+      containers:
+        - name: spring-backend
+          image: mlflowx-spring-backend:latest
+          imagePullPolicy: Never
+
+          ports:
+            - containerPort: 8080
+
+          env:
+            - name: INFERENCE_SERVICE_URL
+              value: http://inference-service:5002

@@ -1,0 +1,24 @@
+2026-05-31 20:58:02,957:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-31 20:58:02,957:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-31 20:58:02,957:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-31 20:58:02,957:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-31 20:58:09,859:INFO:Initializing load_model()
+2026-05-31 20:58:09,859:INFO:load_model(model_name=models/best_model, platform=None, authentication=None, verbose=True)
+2026-05-31 20:58:11,314:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-31 20:58:11,314:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-31 20:58:11,314:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-31 20:58:11,314:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-05-31 20:58:11,769:INFO:Initializing load_model()
+2026-05-31 20:58:11,769:INFO:load_model(model_name=models/best_model, platform=None, authentication=None, verbose=True)
+2026-05-31 20:58:46,765:INFO:Initializing predict_model()
+2026-05-31 20:58:46,765:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x13b9186d0>, estimator={'model': RandomForestClassifier(), 'classes': ['setosa', 'versicolor', 'virginica']}, probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x13b9d4790>)
+2026-05-31 20:58:46,765:INFO:Checking exceptions
+2026-05-31 20:58:46,765:INFO:Preloading libraries

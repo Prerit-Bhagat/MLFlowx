@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: inference-service
+
+spec:
+  replicas: 2
+
+  selector:
+    matchLabels:
+      app: inference-service
+
+  template:
+    metadata:
+      labels:
+        app: inference-service
+
+    spec:
+      containers:
+        - name: inference-service
+          image: mlflowx-inference-service:latest
+          imagePullPolicy: IfNotPresent
+
+          ports:
+            - containerPort: 5002

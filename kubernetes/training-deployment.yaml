@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: training-service
+
+spec:
+  replicas: 1
+
+  selector:
+    matchLabels:
+      app: training-service
+
+  template:
+    metadata:
+      labels:
+        app: training-service
+
+    spec:
+      containers:
+        - name: training-service
+          image: mlflowx-training-service:latest
+          imagePullPolicy: Never
+
+          ports:
+            - containerPort: 5001
